@@ -5,3 +5,5 @@
 build/
 src/layer_config.hpp
 src/manifest.json
+
+.vscode/

@@ -7,5 +7,6 @@
 #pragma once
 
 #include "layer.hpp"
+#include "layer_config.hpp"
 
 std::vector<OpenXRLayer::ShimFunction> ListShims();
